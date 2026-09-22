@@ -138,4 +138,34 @@ The project is based on a coffee shop transaction dataset containing detailed in
 | `product_detail` | Detailed product name |
 
 ---
+# 💡 Business Insights
+
+The dashboard provides useful insights into the coffee shop's sales performance:
+
+- 💰 Revenue can be monitored to understand overall business performance.
+- ☕ Product category analysis helps identify categories contributing to sales.
+- 🏪 Store-wise analysis helps compare the performance of different locations.
+- 📅 Sales trend analysis helps understand changes in sales over time.
+- 🧾 Order and quantity metrics provide an overview of customer purchasing activity.
+- 🎛️ Interactive filters allow users to explore specific dates, locations, and product categories.
+
+These insights can help businesses better understand their sales performance and support data-driven decision making.
+
+# 🤝 Connect With Me
+
+I'm always interested in connecting with fellow developers, data analysts, and people working in the field of technology and analytics.
+
+### 🌐 Let's Connect
+
+💼 **LinkedIn**  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/vidhan-jain-b42027355)
+
+🐙 **GitHub**  
+[Explore my GitHub Projects](https://github.com/vishu-bulid)
+
+### ☕ Thanks for Visiting!
+
+If you found this project useful or interesting, feel free to ⭐ **Star the repository** and connect with me.
+
+**Data → Analysis → Insights → Decisions 📊🚀**
 
