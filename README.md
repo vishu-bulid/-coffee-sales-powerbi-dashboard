@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Sales Analytics Dashboard 📊
 
 <p align="center">
-  <img src="Coffee_Sales_Dashboard.png" alt="Coffee Shop Sales Dashboard" width="100%">
+ 
 </p>
 
 <h3 align="center">
