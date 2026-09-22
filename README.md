@@ -139,15 +139,3 @@ The project is based on a coffee shop transaction dataset containing detailed in
 
 ---
 
-# 🧮 DAX Measures
-
-Several DAX measures were created to calculate the major KPIs used in the dashboard.
-
-### Total Revenue
-
-```DAX
-Total Revenue =
-SUMX(
-    Transactions,
-    Transactions[transaction_qty] * Transactions[unit_price]
-)
